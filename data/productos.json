@@ -1,0 +1,77 @@
+[
+  {
+    "producto_id": 1,
+    "titulo": "Buzo",
+    "precio": 1500,
+    "imagen": "BuzoVerde.png",
+    "imagen_descripcion": "Buzo para correr",
+    "texto": "Buzo térmico liviano para entrenar a la noche. Abriga y ocupa poco espacio a la hora de guardar."
+  },
+  {
+    "producto_id": 2,
+    "titulo": "Remera",
+    "precio": 900,
+    "imagen": "remeraNegra.png",
+    "imagen_descripcion": "Remera para running",
+    "texto": "Remera Dri-Fit para una buena experiencia de entrenamiento donde el sudor no sea un peso para el cuerpo. Diseño simple con variante en su color."
+  },
+  {
+    "producto_id": 3,
+    "titulo": "Short",
+    "precio": 1200,
+    "imagen": "shortNegro.png",
+    "imagen_descripcion": "Short para salir a correr",
+    "texto": "Short de entrenamiento. Cómodo, ligero y con suspensión interna para mayor comodidad a la hora de correr."
+  },
+  {
+    "producto_id": 4,
+    "titulo": "Calzas",
+    "precio": 900,
+    "imagen": "calzaNegra.png",
+    "imagen_descripcion": "Calzas para correr en invierno",
+    "texto": "Calzas unisex para entrenar en invierno y no mantener el cuerpo en una buena temperatura. Ideal para utilizar debajo de un short o pantalón."
+  },
+  {
+    "producto_id": 5,
+    "titulo": "Guantes",
+    "precio": 750,
+    "imagen": "guantesNegros.png",
+    "imagen_descripcion": "Guantes para el frio",
+    "texto": "Guantes para correr en invierno. Con su velcro sobre la muñeca no es necesario que te preocupes por si se desajusta, siempre estarán firmes y mantendrán tus manos a una buena temperatura."
+  },
+  {
+    "producto_id": 6,
+    "titulo": "Bolso",
+    "precio": 5500,
+    "imagen": "bolsoNike.png",
+    "imagen_descripcion": "Bolso para guardar tu ropa",
+    "texto": "Bolso ideal para llevar tu ropa de entrenamiento a cualquier lado. Con un compartimento central y dos pequeños en los costados, contiene suficiente espacio para toda la ropa y además poder guardar tus pertenencias como el celular, billetera o llaves."
+  },
+  {
+    "producto_id": 7,
+    "titulo": "Botella",
+    "precio": 1500,
+    "imagen": "botellaAzul.png",
+    "imagen_descripcion": "Botella para entrenar",
+    "texto": "Botella térmica ideal para no perder la temperatura del contenido. Tamaño ideal y con un diseño único para que puedas engancharlo en donde quieras o simplemente llevarlo en la mano."
+  },
+  {
+    "producto_id": 8,
+    "titulo": "Porta Celular",
+    "precio": 600,
+    "imagen": "portaCelular.png",
+    "imagen_descripcion": "Porta celulares para entrenar",
+    "texto": "Un porta celular siempre es necesario ya que a la hora de correr no se utilizan los bolsillos del short/pantalón por su incomodidad. Con el porta celular te lo ajustas en el brazo y te olvidas del asunto."
+  },
+  {
+    "producto_id": 9,
+    "titulo": "Reloj",
+    "precio": 8000,
+    "imagen": "Reloj.png",
+    "imagen_descripcion": "Reloj runner",
+    "texto": "Reloj especial para medir pulsaciones, distancia recorrida, velocidad promedio y cantidad de pasos."
+  }
+
+
+
+]
